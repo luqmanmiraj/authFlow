@@ -40,11 +40,11 @@ const styles = StyleSheet.create({
   },
   button: {
     flexDirection: 'row',
-    borderRadius: 30,
+    borderRadius: 20,
     marginTop: 10,
     marginBottom: 10,
-    width: 160,
-    height: 60,
+    width: 140,
+    height: 40,
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#481380'
