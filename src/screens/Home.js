@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#ffe2ff'
   },
   title: {
-    marginTop: 18,
+    marginTop: 20,
     marginBottom: 30,
     fontSize: 14,
     fontWeight: '500',
