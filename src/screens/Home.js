@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     color: '#7f78d2'
   },
   button: {
-    flexDirection: 'row',
+    flexDirection: 'column',
     borderRadius: 20,
     marginTop: 10,
     marginBottom: 10,
