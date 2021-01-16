@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   button: {
     flexDirection: 'column',
-    borderRadius: 20,
+    borderRadius: 15,
     marginTop: 10,
     marginBottom: 10,
     width: 140,
