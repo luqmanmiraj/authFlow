@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#ffe2ff'
   },
   title: {
-    marginTop: 20,
+    marginTop: 28,
     marginBottom: 30,
     fontSize: 28,
     fontWeight: '500',
