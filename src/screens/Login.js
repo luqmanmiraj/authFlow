@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   },
   buttonText: {
     color: '#ffe2ff',
-    fontSize: 24,
+    fontSize: 22,
     marginRight: 5
   }
 })
